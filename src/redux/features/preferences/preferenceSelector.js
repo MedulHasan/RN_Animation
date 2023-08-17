@@ -1,0 +1,1 @@
+export const preferenceSelector = state => state.preference;

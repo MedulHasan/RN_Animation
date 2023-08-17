@@ -1,0 +1,1 @@
+export const recaptchaSelector = state => state.recaptcha;
